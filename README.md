@@ -75,7 +75,7 @@ Recent result:
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### IdentyQuest
 
@@ -91,15 +91,8 @@ Tech stack:
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jo3k3r&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo3k3r&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Currently Learning
+##  Currently Learning
 
 - Advanced Web Security
 - Penetration Testing
@@ -107,9 +100,9 @@ Tech stack:
 
 ---
 
-## 📫 Contact
+##  Contact
 
-LinkedIn *(à ajouter)*
+LinkedIn ![Linkedin](https://www.linkedin.com/in/jo064/)
 
 ---
 
