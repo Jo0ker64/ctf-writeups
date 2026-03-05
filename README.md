@@ -92,7 +92,7 @@ Tech stack:
 
 ## 📊 GitHub Stats
 
-![JoeKer GitHub stats](https://github-readme-stats.vercel.app/api?username=joeker&show_icons=true&theme=tokyonight)
+![JoeKer GitHub stats](https://github-readme-stats.vercel.app/api?username=jo3k3r&show_icons=true&theme=tokyonight)
 
 ---
 
