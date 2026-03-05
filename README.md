@@ -6,17 +6,17 @@ Developer • Cybersecurity Enthusiast • CTF Player
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 💻 Software Developer (CDA)
-- 🔐 Passionate about **Cybersecurity**
-- 🕵️ CTF Player
-- 🧠 Curious about **how systems really work**
-- 🚀 Building personal projects
+- Software Developer (CDA)
+- Passionate about **Cybersecurity**
+- CTF Player
+- Curious about **how systems really work**
+- Building personal projects
 
 ---
 
-## ⚔️ Cybersecurity Journey
+## Cybersecurity Journey
 
 Currently training on:
 
@@ -35,7 +35,7 @@ Interested in:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -59,7 +59,7 @@ Interested in:
 
 ---
 
-## 🏴‍☠️ CTF
+## CTF
 
 I participate in cybersecurity challenges to improve my skills in:
 
@@ -70,7 +70,8 @@ I participate in cybersecurity challenges to improve my skills in:
 
 Recent result:
 
-🏆 **Top 22 / 151** in a cybersecurity CTF challenge.
+🏆 **Top 22/151** in a cybersecurity CTF challenge. CTF organized by ENI School. It was my first CTF.
+
 
 ---
 
@@ -92,7 +93,9 @@ Tech stack:
 
 ## 📊 GitHub Stats
 
-![JoeKer GitHub stats](https://github-readme-stats.vercel.app/api?username=jo3k3r&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jo3k3r&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo3k3r&layout=compact&theme=tokyonight)
 
 ---
 
