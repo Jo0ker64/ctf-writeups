@@ -101,8 +101,9 @@ Tech stack:
 ---
 
 ##  Contact
-
-LinkedIn ![Linkedin](https://www.linkedin.com/in/jo064/)
+ Discord: jo03k3r
+- GitHub: jo3k3r
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/jo064/)
 
 ---
 
