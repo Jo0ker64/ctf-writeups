@@ -1,4 +1,4 @@
-<h1 align="center">🃏 JoeKer</h1>
+<h1 align="center">🃏 Jo3K3r</h1>
 
 <p align="center">
 Developer • Cybersecurity Enthusiast • CTF Player
@@ -8,12 +8,12 @@ Developer • Cybersecurity Enthusiast • CTF Player
 
 ## About Me
 
-- Software Developer (CDA)
+- Software Developer Junior
 - Passionate about **Cybersecurity**
 - CTF Player
 - Curious about **how systems really work**
 - Building personal projects
-
+** I am currently considering a career change into cybersecurity.
 ---
 
 ## Cybersecurity Journey
@@ -24,6 +24,7 @@ Currently training on:
 - TryHackMe
 - Root-Me
 - PortSwigger Web Security Academy
+- hackropole.fr/
 
 Interested in:
 
@@ -37,25 +38,7 @@ Interested in:
 
 ## Tech Stack
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-
-### Frameworks
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+<img src="https://skillicons.dev/icons?i=java,js,spring,flutter,docker,git,linux,mysql,postgres" />
 
 ---
 
