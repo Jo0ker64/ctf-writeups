@@ -38,7 +38,7 @@ Interested in:
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,js,spring,flutter,docker,git,linux,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=java,sprijs,spring,flutter,docker,git,linux,mysql," />
 
 ---
 
@@ -54,7 +54,6 @@ I participate in cybersecurity challenges to improve my skills in:
 Recent result:
 
 🏆 **Top 22/151** in a cybersecurity CTF challenge. CTF organized by ENI School. It was my first CTF.
-
 
 ---
 
